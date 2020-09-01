@@ -28,6 +28,7 @@ void bot(string text) {
 }
 
 
+
 int main()
 {
     unordered_map <string, string> database = {
